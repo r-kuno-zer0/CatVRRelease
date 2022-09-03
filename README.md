@@ -9,4 +9,5 @@ SideQuestでのリリースのためのリポジトリです。
 BGM：https://soundcloud.com/baron1_3/madoromi   
 鳴き声 : https://soundeffect-lab.info/sound/search.php?searchtext=%E7%8C%AB  
 フォント : https://www.asterism-m.com/font/cherrybomb/  
-部屋：https://assetstore.unity.com/packages/3d/environments/modern-interier-room-pack-vol-1-77021
+部屋：https://assetstore.unity.com/packages/3d/environments/modern-interier-room-pack-vol-1-77021  
+日本家屋：https://assetstore.unity.com/packages/3d/props/furniture/japanese-furniture-pack-1-70532  
